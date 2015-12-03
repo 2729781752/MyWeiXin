@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="微信jar">
+    <CLASSES>
+      <root url="file://E:/javaEE-jar/微信jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/javaEE-jar/微信jar" recursive="false" />
+  </library>
+</component>
